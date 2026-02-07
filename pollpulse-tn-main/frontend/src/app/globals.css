@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 15, 23, 42;
+  --background-end-rgb: 30, 41, 59;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+    to bottom,
+    rgb(var(--background-start-rgb)),
+    rgb(var(--background-end-rgb))
+  );
+  min-height: 100vh;
+}
+
+/* Leaflet map styling */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  border-radius: 0.75rem;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #1E293B;
+  color: white;
+  border-radius: 0.5rem;
+}
+
+.leaflet-popup-content {
+  color: white !important;
+  margin: 0;
+}
+
+.leaflet-popup-content h3 {
+  color: white !important;
+}
+
+.leaflet-popup-content p {
+  color: #9CA3AF !important;
+}
+
+.leaflet-popup-content span {
+  color: inherit !important;
+}
+
+.custom-popup .leaflet-popup-content-wrapper {
+  background: #1F2937 !important;
+  color: white !important;
+}
+
+.custom-popup .leaflet-popup-content {
+  color: white !important;
+  background: #1F2937 !important;
+}
+
+.leaflet-popup-tip {
+  background: #1E293B;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1E293B;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #64748B;
+}
+
+/* Alliance badge colors */
+.badge-dmk { background-color: #E31B23; }
+.badge-admk { background-color: #00A651; }
+.badge-tvk { background-color: #FFD700; color: #000; }
+.badge-ntk { background-color: #F39C12; }
+.badge-bjp { background-color: #FF9933; }
+.badge-independent { background-color: #95A5A6; }

@@ -1,0 +1,261 @@
+{
+    "Chennai": {
+      "keywords": ["Chennai", "Madras", "Marina", "Velachery", "Adyar", "Mylapore", "T. Nagar", "Guindy", "Tambaram", "Ambattur", "Chromepet", "Anna Nagar", "Koyambedu"],
+      "constituencies": [
+        "Dr. Radhakrishnan Nagar", "Perambur", "Kolathur", "Villivakkam", 
+        "Thiru-Vi-Ka-Nagar", "Egmore", "Royapuram", "Harbour", 
+        "Chepauk-Thiruvallikeni", "Thousand Lights", "Anna Nagar", 
+        "Virugampakkam", "Saidapet", "Thiyagarayanagar", "Mylapore", 
+        "Velachery"
+      ]
+    },
+    "Chengalpattu": {
+      "keywords": ["Chengalpattu", "Pallavaram", "Thiruporur", "Cheyyur", "Madurantakam", "Mamallapuram", "Mahabalipuram", "Vandalur", "Guduvanchery"],
+      "constituencies": [
+        "Chengalpattu", "Tambaram", "Pallavaram", "Thiruporur", 
+        "Cheyyur", "Madurantakam", "Sholinganallur"
+      ]
+    },
+    "Kancheepuram": {
+      "keywords": ["Kancheepuram", "Kanchi", "Uthiramerur", "Sriperumbudur", "Walajabad", "Sunguvarchatram"],
+      "constituencies": [
+        "Kancheepuram", "Uthiramerur", "Sriperumbudur", "Alandur"
+      ]
+    },
+    "Thiruvallur": {
+      "keywords": ["Thiruvallur", "Avadi", "Ponneri", "Gummidipoondi", "Poonamallee", "Tiruttani", "Minjur", "Pattabiram"],
+      "constituencies": [
+        "Gummidipoondi", "Ponneri", "Tiruttani", "Thiruvallur", 
+        "Poonamallee", "Avadi", "Maduravoyal", "Ambattur", 
+        "Madavaram", "Thiruvottiyur"
+      ]
+    },
+    "Vellore": {
+      "keywords": ["Vellore", "Katpadi", "Anaikattu", "Gudiyattam", "Satuvasari", "Bagayam"],
+      "constituencies": [
+        "Vellore", "Katpadi", "Anaikattu", "Kilvaithinankuppam", "Gudiyattam"
+      ]
+    },
+    "Ranipet": {
+      "keywords": ["Ranipet", "Arcot", "Arakkonam", "Sholinghur", "Walajapet", "Melvisharam"],
+      "constituencies": [
+        "Arakkonam", "Sholinghur", "Ranipet", "Arcot"
+      ]
+    },
+    "Tirupathur": {
+      "keywords": ["Tirupathur", "Ambur", "Vaniyambadi", "Jolarpet", "Natrampalli", "Alangayam"],
+      "constituencies": [
+        "Vaniyambadi", "Ambur", "Jolarpet", "Tirupattur"
+      ]
+    },
+    "Tiruvannamalai": {
+      "keywords": ["Tiruvannamalai", "Arani", "Chengam", "Polur", "Vandavasi", "Cheyyar", "Kilpennathur", "Kalasapakkam"],
+      "constituencies": [
+        "Chengam", "Tiruvannamalai", "Kilpennathur", "Kalasapakkam", 
+        "Polur", "Arani", "Cheyyar", "Vandavasi"
+      ]
+    },
+    "Villupuram": {
+      "keywords": ["Villupuram", "Vikravandi", "Gingee", "Tindivanam", "Vanur", "Mailam", "Valavanur"],
+      "constituencies": [
+        "Gingee", "Mailam", "Tindivanam", "Vanur", 
+        "Villupuram", "Vikravandi", "Tirukkoyilur"
+      ]
+    },
+    "Kallakurichi": {
+      "keywords": ["Kallakurichi", "Ulundurpettai", "Rishivandiyam", "Sankarapuram", "Chinnasalem", "Thiyagadurgam"],
+      "constituencies": [
+        "Ulundurpettai", "Rishivandiyam", "Sankarapuram", "Kallakurichi"
+      ]
+    },
+    "Salem": {
+      "keywords": ["Salem", "Edappadi", "Mettur", "Yercaud", "Attur", "Omalur", "Sankari", "Gangavalli", "Valapady"],
+      "constituencies": [
+        "Gangavalli", "Attur", "Yercaud", "Omalur", "Mettur", 
+        "Edappadi", "Sankari", "Salem West", "Salem North", 
+        "Salem South", "Veerapandi"
+      ]
+    },
+    "Namakkal": {
+      "keywords": ["Namakkal", "Rasipuram", "Tiruchengode", "Senthamangalam", "Paramathi Velur", "Kumarapalayam", "Mohanur"],
+      "constituencies": [
+        "Rasipuram", "Senthamangalam", "Namakkal", "Paramathi Velur", 
+        "Tiruchengodu", "Kumarapalayam"
+      ]
+    },
+    "Erode": {
+      "keywords": ["Erode", "Bhavani", "Modakkurichi", "Perundurai", "Anthiyur", "Gobichettipalayam", "Sathyamangalam"],
+      "constituencies": [
+        "Erode East", "Erode West", "Modakkurichi", "Perundurai", 
+        "Bhavani", "Anthiyur", "Gobichettipalayam", "Bhavanisagar"
+      ]
+    },
+    "Tiruppur": {
+      "keywords": ["Tiruppur", "Palladam", "Avinashi", "Dharapuram", "Kangayam", "Udumalaipettai", "Madathukulam", "Vellakoil"],
+      "constituencies": [
+        "Dharapuram", "Kangayam", "Avinashi", "Tiruppur North", 
+        "Tiruppur South", "Palladam", "Udumalaipettai", "Madathukulam"
+      ]
+    },
+    "Coimbatore": {
+      "keywords": ["Coimbatore", "Kovai", "Sulur", "Pollachi", "Mettupalayam", "Valparai", "Kinathukadavu", "Perur", "Gandhipuram", "Peelamedu"],
+      "constituencies": [
+        "Mettupalayam", "Sulur", "Kavundampalayam", "Coimbatore North", 
+        "Thondamuthur", "Coimbatore South", "Singanallur", 
+        "Kinathukadavu", "Pollachi", "Valparai"
+      ]
+    },
+    "Nilgiris": {
+      "keywords": ["Nilgiris", "Ooty", "Udhagamandalam", "Coonoor", "Gudalur", "Kotagiri", "Manjur"],
+      "constituencies": [
+        "Udhagamandalam", "Coonoor", "Gudalur"
+      ]
+    },
+    "Dharmapuri": {
+      "keywords": ["Dharmapuri", "Pennagaram", "Palacode", "Pappireddippatti", "Harur", "Hogenakkal"],
+      "constituencies": [
+        "Palacode", "Pennagaram", "Dharmapuri", 
+        "Pappireddippatti", "Harur"
+      ]
+    },
+    "Krishnagiri": {
+      "keywords": ["Krishnagiri", "Hosur", "Thalli", "Uthangarai", "Bargur", "Denkanikottai", "Kaveripattinam"],
+      "constituencies": [
+        "Uthangarai", "Bargur", "Krishnagiri", 
+        "Veppanahalli", "Hosur", "Thalli"
+      ]
+    },
+    "Tiruchirappalli": {
+      "keywords": ["Trichy", "Tiruchirappalli", "Srirangam", "Thiruverumbur", "Manapparai", "Lalgudi", "Musiri", "Thuraiyur", "Manachanallur", "Ponmalai"],
+      "constituencies": [
+        "Manapparai", "Srirangam", "Tiruchirappalli West", 
+        "Tiruchirappalli East", "Thiruverumbur", "Lalgudi", 
+        "Manachanallur", "Musiri", "Thuraiyur"
+      ]
+    },
+    "Perambalur": {
+      "keywords": ["Perambalur", "Kunnam", "Veppanthattai", "Alathur"],
+      "constituencies": [
+        "Perambalur", "Kunnam"
+      ]
+    },
+    "Ariyalur": {
+      "keywords": ["Ariyalur", "Jayankondam", "Sendurai", "Andimadam", "Thirumanur"],
+      "constituencies": [
+        "Ariyalur", "Jayankondam"
+      ]
+    },
+    "Cuddalore": {
+      "keywords": ["Cuddalore", "Chidambaram", "Neyveli", "Panruti", "Kurinjipadi", "Bhuvanagiri", "Kattumannarkoil", "Tittakudi", "Vriddhachalam"],
+      "constituencies": [
+        "Cuddalore", "Panruti", "Neyveli", "Kurinjipadi", 
+        "Bhuvanagiri", "Chidambaram", "Kattumannarkoil", "Tittakudi", "Vriddhachalam"
+      ]
+    },
+    "Nagapattinam": {
+      "keywords": ["Nagapattinam", "Velankanni", "Kilvelur", "Vedaranyam", "Thirumarugal"],
+      "constituencies": [
+        "Nagapattinam", "Kilvelur", "Vedaranyam"
+      ]
+    },
+    "Mayiladuthurai": {
+      "keywords": ["Mayiladuthurai", "Poompuhar", "Sirkazhi", "Tharangambadi", "Kuthalam"],
+      "constituencies": [
+        "Sirkazhi", "Mayiladuthurai", "Poompuhar"
+      ]
+    },
+    "Tiruvarur": {
+      "keywords": ["Tiruvarur", "Mannargudi", "Thiruthuraipoondi", "Nannilam", "Needamangalam", "Kodavasal"],
+      "constituencies": [
+        "Thiruthuraipoondi", "Mannargudi", "Thiruvarur", "Nannilam"
+      ]
+    },
+    "Thanjavur": {
+      "keywords": ["Thanjavur", "Tanjore", "Kumbakonam", "Papanasam", "Thiruvaiyaru", "Orathanadu", "Pattukkottai", "Peravurani", "Vallam"],
+      "constituencies": [
+        "Thiruvidaimarudur", "Kumbakonam", "Papanasam", "Thiruvaiyaru", 
+        "Thanjavur", "Orathanadu", "Pattukkottai", "Peravurani"
+      ]
+    },
+    "Pudukkottai": {
+      "keywords": ["Pudukkottai", "Viralimalai", "Alangudi", "Aranthangi", "Thirumayam", "Gandarvakottai", "Keeramangalam"],
+      "constituencies": [
+        "Gandarvakottai", "Viralimalai", "Pudukkottai", 
+        "Thirumayam", "Alangudi", "Aranthangi"
+      ]
+    },
+    "Madurai": {
+      "keywords": ["Madurai", "Melur", "Thirumangalam", "Usilampatti", "Sholavandan", "Thiruparankundram", "Avaniapuram", "Goripalayam"],
+      "constituencies": [
+        "Melur", "Madurai East", "Sholavandan", "Madurai North", 
+        "Madurai South", "Madurai Central", "Madurai West", 
+        "Thiruparankundram", "Thirumangalam", "Usilampatti"
+      ]
+    },
+    "Theni": {
+      "keywords": ["Theni", "Bodinayakanur", "Andipatti", "Cumbum", "Periyakulam", "Uthamapalayam", "Chinnamanur"],
+      "constituencies": [
+        "Andipatti", "Periyakulam", "Bodinayakanur", "Cumbum"
+      ]
+    },
+    "Dindigul": {
+      "keywords": ["Dindigul", "Palani", "Oddanchatram", "Athoor", "Nilakkottai", "Natham", "Vedasandur", "Kodaikanal"],
+      "constituencies": [
+        "Palani", "Oddanchatram", "Athoor", "Nilakkottai", 
+        "Natham", "Dindigul", "Vedasandur"
+      ]
+    },
+    "Karur": {
+      "keywords": ["Karur", "Aravakurichi", "Krishnarayapuram", "Kulithalai", "Pallapatti", "Mayanur"],
+      "constituencies": [
+        "Aravakurichi", "Karur", "Krishnarayapuram", "Kulithalai"
+      ]
+    },
+    "Sivaganga": {
+      "keywords": ["Sivaganga", "Karaikudi", "Tiruppathur", "Manamadurai", "Devakottai", "Kalayarkoil"],
+      "constituencies": [
+        "Karaikudi", "Tiruppathur", "Sivaganga", "Manamadurai"
+      ]
+    },
+    "Ramanathapuram": {
+      "keywords": ["Ramanathapuram", "Ramnad", "Rameswaram", "Paramakudi", "Tiruvadanai", "Mudukulathur", "Kamuthi"],
+      "constituencies": [
+        "Paramakudi", "Tiruvadanai", "Ramanathapuram", "Mudukulathur"
+      ]
+    },
+    "Virudhunagar": {
+      "keywords": ["Virudhunagar", "Sattur", "Sivakasi", "Rajapalayam", "Aruppukkottai", "Tiruchuli", "Srivilliputhur", "Watrap"],
+      "constituencies": [
+        "Rajapalayam", "Srivilliputhur", "Sattur", "Sivakasi", 
+        "Virudhunagar", "Aruppukkottai", "Tiruchuli"
+      ]
+    },
+    "Thoothukudi": {
+      "keywords": ["Thoothukudi", "Tuticorin", "Tiruchendur", "Srivaikuntam", "Ottapidaram", "Kovilpatti", "Vilathikulam", "Kayalpattinam"],
+      "constituencies": [
+        "Vilathikulam", "Thoothukudi", "Tiruchendur", 
+        "Srivaikuntam", "Ottapidaram", "Kovilpatti"
+      ]
+    },
+    "Tirunelveli": {
+      "keywords": ["Tirunelveli", "Nellai", "Ambasamudram", "Palayamkottai", "Nanguneri", "Radhapuram", "Valliyur", "Tisayanvilai"],
+      "constituencies": [
+        "Tirunelveli", "Ambasamudram", "Palayamkottai", 
+        "Nanguneri", "Radhapuram"
+      ]
+    },
+    "Tenkasi": {
+      "keywords": ["Tenkasi", "Sankarankovil", "Vasudevanallur", "Kadayanallur", "Alangulam", "Courtallam", "Shencottai"],
+      "constituencies": [
+        "Sankarankovil", "Vasudevanallur", "Kadayanallur", 
+        "Tenkasi", "Alangulam"
+      ]
+    },
+    "Kanyakumari": {
+      "keywords": ["Kanyakumari", "Nagercoil", "Colachel", "Padmanabhapuram", "Vilavancode", "Killiyoor", "Thuckalay", "Marthandam"],
+      "constituencies": [
+        "Kanyakumari", "Nagercoil", "Colachel", 
+        "Padmanabhapuram", "Vilavancode", "Killiyoor"
+      ]
+    }
+  }

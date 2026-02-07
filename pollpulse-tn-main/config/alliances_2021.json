@@ -1,0 +1,88 @@
+{
+  "_metadata": {
+    "election_year": 2021,
+    "description": "Alliance configuration for 2021 TN Assembly Election",
+    "notes": "Used for baseline generation - DO NOT MODIFY after baseline is generated"
+  },
+  "alliances": {
+    "DMK_Alliance": {
+      "display_name": "DMK+ (SPA)",
+      "leader_party": "DMK",
+      "color": "#E31B23",
+      "parties": [
+        "DMK",
+        "INC",
+        "VCK",
+        "CPI",
+        "CPI(M)",
+        "CPM",
+        "MDMK",
+        "IUML",
+        "KMDK",
+        "MMK",
+        "AIFB",
+        "ATP",
+        "MVK"
+      ]
+    },
+    "ADMK_Alliance": {
+      "display_name": "ADMK+ (NDA)",
+      "leader_party": "ADMK",
+      "color": "#00A651",
+      "parties": [
+        "ADMK",
+        "AIADMK",
+        "PMK",
+        "BJP",
+        "TMC(M)",
+        "TMMK",
+        "PBK",
+        "PDK"
+      ]
+    },
+    "AMMK_Front": {
+      "display_name": "AMMK Front",
+      "leader_party": "AMMK",
+      "color": "#9B59B6",
+      "parties": [
+        "AMMK",
+        "DMDK",
+        "SDPI",
+        "AIMIM"
+      ]
+    },
+    "MNM_Front": {
+      "display_name": "MNM Front",
+      "leader_party": "MNM",
+      "color": "#3498DB",
+      "parties": [
+        "MNM",
+        "IJK",
+        "AISMK",
+        "JDS"
+      ]
+    },
+    "NTK": {
+      "display_name": "NTK",
+      "leader_party": "NTK",
+      "color": "#F39C12",
+      "parties": [
+        "NTK"
+      ]
+    },
+    "Independent": {
+      "display_name": "Independent",
+      "leader_party": null,
+      "color": "#95A5A6",
+      "parties": [
+        "IND"
+      ]
+    },
+    "Others": {
+      "display_name": "Others",
+      "leader_party": null,
+      "color": "#7F8C8D",
+      "parties": []
+    }
+  }
+}
