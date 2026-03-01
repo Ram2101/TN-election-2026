@@ -1,0 +1,90 @@
+{
+  "_metadata": {
+    "election_year": 2026,
+    "description": "Alliance configuration for 2026 TN Assembly Election",
+    "last_updated": "2026-01-23",
+    "notes": "UPDATE THIS FILE as alliances are finalized. The system will automatically reflect changes."
+  },
+  "alliances": {
+    "DMK_Front": {
+      "display_name": "DMK+ Alliance",
+      "leader_party": "DMK",
+      "color": "#E31B23",
+      "parties": [
+        "DMK",
+        "INC",
+        "VCK",
+        "CPI",
+        "CPI(M)",
+        "CPM",
+        "MDMK",
+        "IUML",
+        "KMDK",
+        "MMK"
+      ],
+      "notes": "Secular Progressive Alliance - incumbent government"
+    },
+    "ADMK_Front": {
+      "display_name": "ADMK+ Alliance",
+      "leader_party": "ADMK",
+      "color": "#00A651",
+      "parties": [
+        "ADMK",
+        "AIADMK",
+        "PMK",
+        "DMDK"
+      ],
+      "notes": "Main opposition - alliance structure TBD after EPS-OPS resolution"
+    },
+    "TVK_Front": {
+      "display_name": "TVK (Vijay)",
+      "leader_party": "TVK",
+      "color": "#FFD700",
+      "parties": [
+        "TVK"
+      ],
+      "notes": "Thalapathy Vijay's party - alliance undecided, could go solo or ally"
+    },
+    "NTK": {
+      "display_name": "NTK (Seeman)",
+      "leader_party": "NTK",
+      "color": "#F39C12",
+      "parties": [
+        "NTK"
+      ],
+      "notes": "Naam Tamilar Katchi - typically contests alone"
+    },
+    "BJP_NDA": {
+      "display_name": "BJP (NDA)",
+      "leader_party": "BJP",
+      "color": "#FF9933",
+      "parties": [
+        "BJP"
+      ],
+      "notes": "May contest alone or with ADMK - TBD"
+    },
+    "AMMK": {
+      "display_name": "AMMK",
+      "leader_party": "AMMK",
+      "color": "#9B59B6",
+      "parties": [
+        "AMMK"
+      ],
+      "notes": "TTV Dhinakaran's party - likely diminished role"
+    },
+    "Independent": {
+      "display_name": "Independent",
+      "leader_party": null,
+      "color": "#95A5A6",
+      "parties": [
+        "IND"
+      ]
+    },
+    "Others": {
+      "display_name": "Others",
+      "leader_party": null,
+      "color": "#7F8C8D",
+      "parties": []
+    }
+  }
+}

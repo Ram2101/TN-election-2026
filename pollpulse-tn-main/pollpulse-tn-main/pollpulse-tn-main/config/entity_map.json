@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-23T00:23:29.086754",
+    "sources": [
+      "wikidata",
+      "baseline_2021",
+      "hardcoded"
+    ],
+    "version": "1.0"
+  },
+  "politicians": {
+    "M._K._STALIN": {
+      "canonical_name": "M. K. Stalin",
+      "aliases": [
+        "MK Stalin",
+        "Stalin",
+        "Muthuvel Karunanidhi Stalin"
+      ],
+      "constituency": "KOLATHUR",
+      "party": "DMK",
+      "role": "Chief Minister",
+      "source": "hardcoded"
+    },
+    "UDHAYANIDHI_STALIN": {
+      "canonical_name": "Udhayanidhi Stalin",
+      "aliases": [
+        "Udhayanidhi",
+        "Udhay"
+      ],
+      "constituency": "CHEPAUK-THIRUVALLIKENI",
+      "party": "DMK",
+      "role": "Deputy Chief Minister",
+      "source": "hardcoded"
+    },
+    "KANIMOZHI": {
+      "canonical_name": "Kanimozhi",
+      "aliases": [
+        "Kanimozhi Karunanidhi"
+      ],
+      "constituency": null,
+      "party": "DMK",
+      "role": "Party Leader",
+      "source": "hardcoded"
+    },
+    "EDAPPADI_K._PALANISWAMI": {
+      "canonical_name": "Edappadi K. Palaniswami",
+      "aliases": [
+        "EPS",
+        "Edappadi",
+        "Palaniswami"
+      ],
+      "constituency": "EDAPPADI",
+      "party": "ADMK",
+      "role": "Opposition Leader",
+      "source": "hardcoded"
+    },
+    "O._PANNEERSELVAM": {
+      "canonical_name": "O. Panneerselvam",
+      "aliases": [
+        "OPS",
+        "Panneerselvam"
+      ],
+      "constituency": "BODINAYAKANUR",
+      "party": "ADMK",
+      "role": "Party Leader",
+      "source": "hardcoded"
+    },
+    "VIJAY": {
+      "canonical_name": "Vijay",
+      "aliases": [
+        "Thalapathy Vijay",
+        "Thalapathy",
+        "Actor Vijay",
+        "Joseph Vijay"
+      ],
+      "constituency": null,
+      "party": "TVK",
+      "role": "Party Founder",
+      "source": "hardcoded"
+    },
+    "SEEMAN": {
+      "canonical_name": "Seeman",
+      "aliases": [
+        "Senthamizhan Seeman"
+      ],
+      "constituency": null,
+      "party": "NTK",
+      "role": "Party Leader",
+      "source": "hardcoded"
+    },
+    "K._ANNAMALAI": {
+      "canonical_name": "K. Annamalai",
+      "aliases": [
+        "Annamalai",
+        "Annamalai IPS"
+      ],
+      "constituency": null,
+      "party": "BJP",
+      "role": "State President",
+      "source": "hardcoded"
+    },
+    "THIRUMAVALAVAN": {
+      "canonical_name": "Thirumavalavan",
+      "aliases": [
+        "Thol. Thirumavalavan",
+        "Thiruma"
+      ],
+      "constituency": "CHIDAMBARAM",
+      "party": "VCK",
+      "role": "Party Leader",
+      "source": "hardcoded"
+    },
+    "VAIKO": {
+      "canonical_name": "Vaiko",
+      "aliases": [
+        "V. Gopalasamy",
+        "Vaiyapuri Gopalsamy"
+      ],
+      "constituency": null,
+      "party": "MDMK",
+      "role": "Party Leader",
+      "source": "hardcoded"
+    },
+    "ANBUMANI_RAMADOSS": {
+      "canonical_name": "Anbumani Ramadoss",
+      "aliases": [
+        "Anbumani",
+        "Dr. Anbumani"
+      ],
+      "constituency": null,
+      "party": "PMK",
+      "role": "Party Leader",
+      "source": "hardcoded"
+    },
+    "S._RAMADOSS": {
+      "canonical_name": "S. Ramadoss",
+      "aliases": [
+        "Ramadoss",
+        "Dr. Ramadoss"
+      ],
+      "constituency": null,
+      "party": "PMK",
+      "role": "Party Founder",
+      "source": "hardcoded"
+    },
+    "ABTAUSCHALTUNG": {
+      "canonical_name": "Abtauschaltung",
+      "aliases": [],
+      "constituency": null,
+      "party": "",
+      "role": "Party Leader",
+      "source": "wikidata"
+    },
+    "B67": {
+      "canonical_name": "B67",
+      "aliases": [],
+      "constituency": null,
+      "party": "",
+      "role": "Party Leader",
+      "source": "wikidata"
+    },
+    "HUNGARIAN_CENTRAL_STATISTICAL_OFFICE_LIBRARY": {
+      "canonical_name": "Hungarian Central Statistical Office Library",
+      "aliases": [],
+      "constituency": null,
+      "party": "",
+      "role": "Party Leader",
+      "source": "wikidata"
+    },
+    "INTERNATIONAL_SEABED_AUTHORITY": {
+      "canonical_name": "International Seabed Authority",
+      "aliases": [],
+      "constituency": null,
+      "party": "",
+      "role": "Party Leader",
+      "source": "wikidata"
+    },
+    "PTV_BOLAN": {
+      "canonical_name": "PTV Bolan",
+      "aliases": [],
+      "constituency": null,
+      "party": "",
+      "role": "Party Leader",
+      "source": "wikidata"
+    },
+    "PHEOSIA_RIMOSA": {
+      "canonical_name": "Pheosia rimosa",
+      "aliases": [],
+      "constituency": null,
+      "party": "",
+      "role": "Party Leader",
+      "source": "wikidata"
+    },
+    "WILLIAM_ORBAUGH": {
+      "canonical_name": "William Orbaugh",
+      "aliases": [],
+      "constituency": null,
+      "party": "",
+      "role": "Party Leader",
+      "source": "wikidata"
+    }
+  },
+  "alias_index": {
+    "m. k. stalin": "M._K._STALIN",
+    "mk stalin": "M._K._STALIN",
+    "stalin": "M._K._STALIN",
+    "muthuvel karunanidhi stalin": "M._K._STALIN",
+    "udhayanidhi stalin": "UDHAYANIDHI_STALIN",
+    "udhayanidhi": "UDHAYANIDHI_STALIN",
+    "udhay": "UDHAYANIDHI_STALIN",
+    "kanimozhi": "KANIMOZHI",
+    "kanimozhi karunanidhi": "KANIMOZHI",
+    "edappadi k. palaniswami": "EDAPPADI_K._PALANISWAMI",
+    "eps": "EDAPPADI_K._PALANISWAMI",
+    "edappadi": "EDAPPADI_K._PALANISWAMI",
+    "palaniswami": "EDAPPADI_K._PALANISWAMI",
+    "o. panneerselvam": "O._PANNEERSELVAM",
+    "ops": "O._PANNEERSELVAM",
+    "panneerselvam": "O._PANNEERSELVAM",
+    "vijay": "VIJAY",
+    "thalapathy vijay": "VIJAY",
+    "thalapathy": "VIJAY",
+    "actor vijay": "VIJAY",
+    "joseph vijay": "VIJAY",
+    "seeman": "SEEMAN",
+    "senthamizhan seeman": "SEEMAN",
+    "k. annamalai": "K._ANNAMALAI",
+    "annamalai": "K._ANNAMALAI",
+    "annamalai ips": "K._ANNAMALAI",
+    "thirumavalavan": "THIRUMAVALAVAN",
+    "thol. thirumavalavan": "THIRUMAVALAVAN",
+    "thiruma": "THIRUMAVALAVAN",
+    "vaiko": "VAIKO",
+    "v. gopalasamy": "VAIKO",
+    "vaiyapuri gopalsamy": "VAIKO",
+    "anbumani ramadoss": "ANBUMANI_RAMADOSS",
+    "anbumani": "ANBUMANI_RAMADOSS",
+    "dr. anbumani": "ANBUMANI_RAMADOSS",
+    "s. ramadoss": "S._RAMADOSS",
+    "ramadoss": "S._RAMADOSS",
+    "dr. ramadoss": "S._RAMADOSS",
+    "abtauschaltung": "ABTAUSCHALTUNG",
+    "b67": "B67",
+    "hungarian central statistical office library": "HUNGARIAN_CENTRAL_STATISTICAL_OFFICE_LIBRARY",
+    "international seabed authority": "INTERNATIONAL_SEABED_AUTHORITY",
+    "ptv bolan": "PTV_BOLAN",
+    "pheosia rimosa": "PHEOSIA_RIMOSA",
+    "william orbaugh": "WILLIAM_ORBAUGH"
+  },
+  "constituency_politicians": {
+    "KOLATHUR": [
+      "M. K. Stalin"
+    ],
+    "CHEPAUK-THIRUVALLIKENI": [
+      "Udhayanidhi Stalin"
+    ],
+    "EDAPPADI": [
+      "Edappadi K. Palaniswami"
+    ],
+    "BODINAYAKANUR": [
+      "O. Panneerselvam"
+    ],
+    "CHIDAMBARAM": [
+      "Thirumavalavan"
+    ]
+  }
+}
